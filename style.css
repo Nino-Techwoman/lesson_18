@@ -1,0 +1,11 @@
+.box{
+  width: 150px;
+  height: 150px;
+}
+
+#buttons{
+  display: grid;
+  grid-template-columns: repeat(3,150px);
+  gap: 24px;
+  
+}
